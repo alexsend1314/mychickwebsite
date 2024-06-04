@@ -1,0 +1,10 @@
+
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    background-image: url(italan.jpg);
+    text-align: center;
+    color: blue;
+}
